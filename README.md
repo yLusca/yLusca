@@ -1,4 +1,5 @@
-### Seja bem-vindo!👋
+### Seja bem-vindo !    👋
+#### me chamo Lucas, Sou um estudante apaixonado por tecnologia, focado em criar soluções eficientes e inovadoras. Tenho uma rasa experiência em Python. Estou sempre em busca de novos desafios e oportunidades de aprendizado. Acompanhe a minha jornada de estudos pelo meu GitHub e meus projetos !
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_lcdsx)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yLusca)
