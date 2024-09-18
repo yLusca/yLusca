@@ -22,9 +22,14 @@
 
 
 
-### Plataformas usadas: 
+## Plataformas usadas
 
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download/desktop)
 
+## Primeiro projeto: 
+
+- [Minecraft Calculator - In Progress](https://github.com/yLusca/Minecraft_Calculator)
+
+ [![Madewith](https://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
